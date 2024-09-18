@@ -8,7 +8,7 @@
 <body>
   <div class="container" >
     <div class="header" style="text-align: center;">
-      <a href="https://imgur.com/GjpA6cF"><img src="https://i.imgur.com/GjpA6cF.jpg?1" alt="RentalSphere Logo " style="max-width: 80px;"></a>
+      <a href="https://imgur.com/GjpA6cF"><img src="https://i.imgur.com/GjpA6cF.jpg?1" alt="RentalSphere Logo " style="max-width: 20;"></a>
     </div>
     <div class="content" >
         <div class="summary-app" style="text-align: center;">
